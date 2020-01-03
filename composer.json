@@ -33,10 +33,10 @@
     ],
     "require": {
         "php": "^5.3.9 || ^7.0",
-        "alchemy/binary-driver": "dev-master",
+        "alchemy/binary-driver": "^5.1",
         "doctrine/cache": "^1.0",
         "evenement/evenement": "^3.0 || ^2.0 || ^1.0",
-        "neutron/temporary-filesystem": "dev-master"
+        "neutron/temporary-filesystem": "^2.4"
     },
     "suggest": {
         "php-ffmpeg/extras": "A compilation of common audio & video drivers for PHP-FFMpeg"
