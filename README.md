@@ -1,5 +1,7 @@
 # php-ffmpeg
 
+## PLEASE NOTE! This is fork from PHP-FFMpeg/PHP-FFMpeg. I forked it for Symfony 5 requirements.
+
 [![Build Status](https://secure.travis-ci.org/PHP-FFMpeg/PHP-FFMpeg.png?branch=master)](http://travis-ci.org/PHP-FFMpeg/PHP-FFMpeg)
 
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/607f3111-e2d7-44e8-8bcc-54dd64521983/big.png)](https://insight.sensiolabs.com/projects/607f3111-e2d7-44e8-8bcc-54dd64521983)
